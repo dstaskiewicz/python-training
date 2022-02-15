@@ -6,3 +6,4 @@ Used for some simple tasks
 
 1. Caesar cypher
 2. Fibonacci sequence
+3. Happy numbers
