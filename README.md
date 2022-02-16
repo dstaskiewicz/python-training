@@ -8,3 +8,4 @@ Used for some simple tasks
 2. Fibonacci sequence
 3. Happy numbers
 4. Fizz Buzz
+5. Monty Hall problem
